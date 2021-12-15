@@ -14,4 +14,3 @@ int main() {
  cout<<"Hasil pertambahan = "<<tambah<<endl;
  //memunculkan hasil
 }
- 
